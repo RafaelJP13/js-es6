@@ -9,6 +9,7 @@ console.log(example2)
 
 let exemplo1 = {
     firstName: 'Rafael'
+
 }
 
 let exemplo2 = {
